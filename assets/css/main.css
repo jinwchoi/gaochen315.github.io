@@ -31,6 +31,10 @@ p {
     margin-bottom: 25px;
 }
 
+pp {
+    line-height: 28px;
+}
+
 .centered {
     text-align: center;
 }
@@ -192,7 +196,7 @@ a:after {
 	color: white;
 } 
 
-#intro h5, p {
+#intro h5, p,pp {
 	color: white;
 }
 
@@ -211,7 +215,7 @@ a:after {
 	color: white;
 }
 
-#skillswrap h5, p {
+#skillswrap h5, p, pp {
 	color: white;
 }
 
@@ -221,7 +225,7 @@ a:after {
 	padding-bottom: 50px;
 }
 
-#footwrap p {
+#footwrap p, pp{
 	color: white;
 }
 
@@ -247,7 +251,7 @@ a:after {
 	text-align: right;
 }
 
-#c p {
+#c p, pp {
 	color: white
 }
 
@@ -259,7 +263,7 @@ a:after {
 	padding-top: 50px;
 }
 
-.desc p {
+.desc p, pp {
 	color: #2f2f2f;
 }
 
