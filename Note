@@ -1,0 +1,3 @@
+How to continue a broken scp (secure copy) command process?
+
+rsync --partial --progress --rsh=ssh file host:/directory/.
