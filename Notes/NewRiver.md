@@ -62,7 +62,7 @@ Exit
 Press control + A, then press D
 ```
 
-## Copy
+## Resume intercupted Copy
 ```
 rsync --partial --progress --rsh=ssh chengao@godel.ece.vt.edu:/home/chengao/BIrdDetection/Chen_code/50mm_21May2013* ./
 ```
